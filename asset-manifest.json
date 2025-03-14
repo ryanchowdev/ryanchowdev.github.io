@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22fd70b5.css",
+    "main.js": "/static/js/main.afca5e01.js",
+    "static/js/453.9cbecd5c.chunk.js": "/static/js/453.9cbecd5c.chunk.js",
+    "static/media/cover-ucsc-scraper.jpg": "/static/media/cover-ucsc-scraper.6961feb9b70a5ab0ec54.jpg",
+    "static/media/cover-bread.jpeg": "/static/media/cover-bread.ca77ac97e7cb01620dcc.jpeg",
+    "static/media/cover-stock-market.jpg": "/static/media/cover-stock-market.8bc3b05be885744d7186.jpg",
+    "static/media/cover-roommate.jpg": "/static/media/cover-roommate.e605ef10193e5f4d8c76.jpg",
+    "static/media/cover-portfolio.jpeg": "/static/media/cover-portfolio.b0fc94257d6fa4bc675e.jpeg",
+    "static/media/ryan-profile.jpg": "/static/media/ryan-profile.7291b9b59ca3cfa11f33.jpg",
+    "index.html": "/index.html",
+    "main.22fd70b5.css.map": "/static/css/main.22fd70b5.css.map",
+    "main.afca5e01.js.map": "/static/js/main.afca5e01.js.map",
+    "453.9cbecd5c.chunk.js.map": "/static/js/453.9cbecd5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22fd70b5.css",
+    "static/js/main.afca5e01.js"
+  ]
+}
